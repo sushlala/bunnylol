@@ -175,6 +175,10 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
         name: "Microsoft To Do",
         url: "https://to-do.live.com"
     },
+    chatg: {
+        name: "ChatGPT",
+        url: "https://chatgpt.com/"
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
