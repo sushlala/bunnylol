@@ -179,6 +179,10 @@ export const COMMANDS: {[CommandNames] : CommandType} = {
         name: "ChatGPT",
         url: "https://chatgpt.com/"
     },
+    docs: {
+        name: "Google docs",
+        url: "https://docs.google.com/"
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
